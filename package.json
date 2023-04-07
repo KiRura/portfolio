@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "packageManager": "yarn@4.0.0-rc.42",
+  "author": "KiRura <kirura@users.noreply.github.com>",
+  "private": true,
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite dev"
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-auto": "^2.0.0",
+    "@sveltejs/kit": "^1.15.2",
+    "svelte": "^3.58.0",
+    "typescript": "^5.0.4",
+    "vite": "^4.2.1"
+  },
+  "dependencies": {},
+  "type": "module",
+  "volta": {
+    "node": "18.15.0"
+  }
+}
